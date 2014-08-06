@@ -8,5 +8,7 @@ this is a static site hosted on github pages. commits should show up immediately
 ## build
 ```bash
 npm install
-npm run gulp
 ```
+
+## styleguide
+./styleguide/index.html 
